@@ -29,3 +29,8 @@ You can install the dependencies using pip:
 
 ```bash
 pip install fastapi uvicorn pandas xgboost pydantic
+```
+
+## Model Training
+
+The Jupyter Notebook (`bank_customer_churn.ipynb`) contains the exploratory data analysis and model training steps. If you need to retrain or update the model, you can run this notebook and save the updated model as model.pkl.
