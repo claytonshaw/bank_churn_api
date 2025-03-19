@@ -16,7 +16,7 @@ The FastAPI application (`main.py`) exposes a `/predict` endpoint that accepts c
 
 ## Dataset
 
-The dataset was obtained from Kaggle. Before using or redistributing the dataset, please review the dataset’s license and usage terms on Kaggle. If the dataset cannot be publicly shared, consider adding the CSV file to your `.gitignore` and provide instructions on how others can download it from Kaggle.
+The dataset was obtained from Kaggle.
 
 ## Getting Started
 
