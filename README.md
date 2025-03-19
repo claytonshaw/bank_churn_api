@@ -11,12 +11,7 @@ The FastAPI application (`main.py`) exposes a `/predict` endpoint that accepts c
 - **main.py:** The FastAPI application code that sets up the API, loads the model, and defines the prediction endpoint.
 - **model.pkl:** A serialized XGBoost model used for making predictions.
 - **bank_customer_churn.ipynb:** A Jupyter Notebook that contains the data exploration and model training process.
-- **Bank Customer Churn Prediction.csv:** The dataset used for training the model (sourced from Kaggle).  
-  **Note:** Due to licensing restrictions, this file may be omitted from the public repository. See the [Dataset](#dataset) section for more details.
-
-## Dataset
-
-The dataset was obtained from Kaggle.
+- **Bank Customer Churn Prediction.csv:** The dataset used for training the model (sourced from Kaggle).
 
 ## Getting Started
 
